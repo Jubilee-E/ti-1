@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 96f32d9672875c33d7d65775d516843625d773dd Jubilee <artem-bodrov1408@yandex.ru> 1742734344 +0300	commit (initial): add index.html
+96f32d9672875c33d7d65775d516843625d773dd 96f32d9672875c33d7d65775d516843625d773dd Jubilee <artem-bodrov1408@yandex.ru> 1742735516 +0300	Branch: renamed refs/heads/master to refs/heads/main
+96f32d9672875c33d7d65775d516843625d773dd 98e5c5576854c3ec8221303ea92a9861ef405b6f Jubilee <artem-bodrov1408@yandex.ru> 1742738829 +0300	commit: сообщение коммита
+98e5c5576854c3ec8221303ea92a9861ef405b6f 7bf19445ff5ff37f792f121484fe0313d984f1fa Jubilee <artem-bodrov1408@yandex.ru> 1742738916 +0300	commit: добавил ещё файл,изменил содержимое у 1 и 2
+7bf19445ff5ff37f792f121484fe0313d984f1fa facf9cc33fcc8c91dae5bda52612c864f57873e2 Jubilee <artem-bodrov1408@yandex.ru> 1742739002 +0300	commit: добавил ещё файл с шаблонным именем,изменил имя у 2 на 22
+facf9cc33fcc8c91dae5bda52612c864f57873e2 a6fe40e2693509561c67dc0c8acd7aa78aa7b082 Jubilee <artem-bodrov1408@yandex.ru> 1742739075 +0300	commit: добавил ещё презентацию и архив
+a6fe40e2693509561c67dc0c8acd7aa78aa7b082 671aed908baba77f260245590e5ec008198e3914 Jubilee <artem-bodrov1408@yandex.ru> 1742739135 +0300	commit: удалил файл 1 и создал ворд файл без имени
+671aed908baba77f260245590e5ec008198e3914 f4f248c0516e05759772bbf16c705854e3777384 Jubilee <artem-bodrov1408@yandex.ru> 1742739239 +0300	commit: создал папку с папкой с папкой и создал в нём документ
